@@ -1,2 +1,6 @@
-# projet-devensemble
-Repo pour les projet a proposer au membres de DevEnsemble.
+# Tache DevEnsemble
+
+Repo pour les solutions des tache 
+
+Serveur discord :
+https://discord.gg/kwTawhJb6c
